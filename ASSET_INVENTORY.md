@@ -10,7 +10,7 @@
 
 | # | File (descriptive name) | Original WhatsApp filename | Asset type | Confirmed purpose | Proposed website section |
 |---|---|---|---|---|---|
-| 1 | `Prime_Fresh_Oil_Mills_Original_Logo.jpg` | `-0000033-PHOTO-2026-10-18-21-23-55.jpg` | JPEG (logo) | Original company logo, displayed unchanged as supplied (no wording/colour/proportion edits). Copy in `assets/prime-fresh-oil-mills-logo.jpg`. | Header (image); footer keeps a text wordmark |
+| 1 | `Prime_Fresh_Oil_Mills_Original_Logo.jpg` | `-0000033-PHOTO-2026-10-18-21-23-55.jpg` | JPEG (logo) | Original company logo, displayed unchanged as supplied (no wording/colour/proportion edits). Display copy: `prime-fresh-oil-mills-logo.jpg` in the project root. | Header (image); footer keeps a text wordmark |
 | 2 | `Yellow_Mustard_Seeds.jpg` | `-0000040-PHOTO-2026-10-18-20-53-15.jpg` | JPEG photo | Yellow mustard seeds (input to bestseller yellow mustard oil) | Bestsellers / Products |
 | 3 | `Groundnut_Seeds.jpg` | `-0000030-PHOTO-2026-10-18-21-34-29.jpg` | JPEG photo | Groundnut seeds | Bestsellers / Products |
 | 4 | `Sesame_Seeds_Photo_1.jpg` | `-0000028-PHOTO-2026-10-18-21-40-13.jpg` | JPEG photo | Sesame seeds | Bestsellers / Products |
@@ -24,15 +24,16 @@
 
 ## 2. Actual on-disk paths of supplied attachments
 
-Base folder: `/Users/bhav7/Documents/Website /drive-download-20261025T111626Z-1-001/`
+Base folder: `/Users/bhav7/Documents/Website /`
 
-- Product photos (all 8): `/Users/bhav7/Documents/Website /drive-download-20261025T111626Z-1-001/<DescriptiveName>.jpg`
-- Videos (both): `/Users/bhav7/Documents/Website /drive-download-20261025T111815Z-1-001/<DescriptiveName>.mp4`
-- Challenge docs: `/Users/bhav7/Documents/Website /drive-download-20261025T111800Z-1-001/{MEDIA_INDEX.csv,README_START_HERE.txt}`
+- Product photos (all 8): `/Users/bhav7/Documents/Website /<DescriptiveName>.jpg`
+- Videos (both): `/Users/bhav7/Documents/Website /<DescriptiveName>.mp4`
+- Logo: `/Users/bhav7/Documents/Website /prime-fresh-oil-mills-logo.jpg`
+- Challenge docs were removed with the old Drive download folders; their contents are summarised in this file.
 
 ## 3. Asset status summary
 
-- ✅ Original logo supplied on 26 Oct 2026 (`Prime_Fresh_Oil_Mills_Original_Logo.jpg`, 1171×807); copied unchanged to `assets/prime-fresh-oil-mills-logo.jpg` and used in the header.
+- ✅ Original logo supplied on 26 Oct 2026 (`Prime_Fresh_Oil_Mills_Original_Logo.jpg`, 1171×807); copied unchanged to `prime-fresh-oil-mills-logo.jpg` and used in the header.
 - ✅ 8 / 8 labeled product photos located and accounted for.
 - ✅ 2 / 2 facility videos located and accounted for.
 - ✅ `README_START_HERE.txt` and `MEDIA_INDEX.csv` read in full.
@@ -40,7 +41,7 @@ Base folder: `/Users/bhav7/Documents/Website /drive-download-20261025T111626Z-1-
 
 ## 4. Issues / gaps / risks (pre-implementation)
 
-1. **Logo asset** — resolved 26 Oct 2026: supplied file copied unchanged to `assets/prime-fresh-oil-mills-logo.jpg` and displayed in the header.
+1. **Logo asset** — resolved 26 Oct 2026: supplied file copied unchanged to `prime-fresh-oil-mills-logo.jpg` and displayed in the header.
 2. **Logo artwork** — the supplied image is displayed exactly as provided; no wording, colours, or proportions were altered.
 3. **Unconfirmed business address** — must use explicit placeholder, not invented.
 4. **Missing claim data** — no certifications, capacities, prices, specs, or factual claims may be invented.

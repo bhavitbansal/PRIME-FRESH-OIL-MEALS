@@ -18,23 +18,23 @@ then visit `http://localhost:8000/index.html`.
 
 ## Assets
 
-Product photography and facility videos are referenced from the supplied Drive download
-folders by their real filenames, for example:
+Product photography, facility videos and the company logo now sit in the project root
+next to `index.html`, and are referenced by filename:
 
-- `assets/prime-fresh-oil-mills-logo.jpg` (supplied company logo, displayed in the header)
-- `drive-download-20261025T111626Z-1-001/Yellow_Mustard_Seeds.jpg`
-- `drive-download-20261025T111626Z-1-001/Sesame_Seeds_Photo_1.jpg`
-- `drive-download-20261025T111626Z-1-001/Sesame_Seeds_Photo_2.jpg`
-- `drive-download-20261025T111626Z-1-001/Black_Sesame_Seeds.jpg`
-- `drive-download-20261025T111626Z-1-001/Black_Mustard_Seeds.jpg`
-- `drive-download-20261025T111626Z-1-001/Groundnut_Seeds.jpg`
-- `drive-download-20261025T111626Z-1-001/Yellow_Mustard_Cake.jpg`
-- `drive-download-20261025T111626Z-1-001/Black_Mustard_Cake.jpg`
-- `drive-download-20261025T111815Z-1-001/Facility_Oil_Processing_Equipment.mp4`
-- `drive-download-20261025T111815Z-1-001/Warehouse_Storage_Bags.mp4`
+- `prime-fresh-oil-mills-logo.jpg` (supplied company logo, displayed in the header)
+- `Yellow_Mustard_Seeds.jpg`
+- `Sesame_Seeds_Photo_1.jpg`
+- `Sesame_Seeds_Photo_2.jpg`
+- `Black_Sesame_Seeds.jpg`
+- `Black_Mustard_Seeds.jpg`
+- `Groundnut_Seeds.jpg`
+- `Yellow_Mustard_Cake.jpg`
+- `Black_Mustard_Cake.jpg`
+- `Facility_Oil_Processing_Equipment.mp4`
+- `Warehouse_Storage_Bags.mp4`
 
 The company logo is the supplied artwork, referenced at
-`assets/prime-fresh-oil-mills-logo.jpg` and displayed in the header without alteration
+`prime-fresh-oil-mills-logo.jpg` and displayed in the header without alteration
 (alongside the text-based footer wordmark).
 
 ## Status

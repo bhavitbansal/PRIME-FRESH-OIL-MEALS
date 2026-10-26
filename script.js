@@ -100,37 +100,37 @@
     "yellow-mustard-seeds": {
       name: "Yellow Mustard Seeds", category: "Seeds", badge: null,
       desc: "Yellow mustard seed, the source of the bestselling yellow mustard oil.",
-      img: "drive-download-20261025T111626Z-1-001/Yellow_Mustard_Seeds.jpg"
+      img: "Yellow_Mustard_Seeds.jpg"
     },
     "sesame-seeds": {
       name: "Sesame Seeds", category: "Seeds", badge: "Bestseller",
       desc: "Sesame seeds, a confirmed bestseller.",
-      img: "drive-download-20261025T111626Z-1-001/Sesame_Seeds_Photo_1.jpg"
+      img: "Sesame_Seeds_Photo_1.jpg"
     },
     "black-sesame-seeds": {
       name: "Black Sesame Seeds", category: "Seeds", badge: null,
       desc: "Black sesame seeds.",
-      img: "drive-download-20261025T111626Z-1-001/Black_Sesame_Seeds.jpg"
+      img: "Black_Sesame_Seeds.jpg"
     },
     "black-mustard-seeds": {
       name: "Black Mustard Seeds", category: "Seeds", badge: null,
       desc: "Black mustard seeds.",
-      img: "drive-download-20261025T111626Z-1-001/Black_Mustard_Seeds.jpg"
+      img: "Black_Mustard_Seeds.jpg"
     },
     "groundnut-seeds": {
       name: "Groundnut Seeds", category: "Seeds", badge: "Bestseller",
       desc: "Groundnut seeds, a confirmed bestseller.",
-      img: "drive-download-20261025T111626Z-1-001/Groundnut_Seeds.jpg"
+      img: "Groundnut_Seeds.jpg"
     },
     "yellow-mustard-cake": {
       name: "Yellow Mustard Cake", category: "De-Oiled Cakes", badge: null,
       desc: "Yellow mustard de-oiled cake.",
-      img: "drive-download-20261025T111626Z-1-001/Yellow_Mustard_Cake.jpg"
+      img: "Yellow_Mustard_Cake.jpg"
     },
     "black-mustard-cake": {
       name: "Black Mustard Cake", category: "De-Oiled Cakes", badge: null,
       desc: "Black mustard de-oiled cake.",
-      img: "drive-download-20261025T111626Z-1-001/Black_Mustard_Cake.jpg"
+      img: "Black_Mustard_Cake.jpg"
     }
   };
 
