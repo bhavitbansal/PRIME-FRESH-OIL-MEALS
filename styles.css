@@ -144,8 +144,8 @@ section[id], footer[id] { scroll-margin-top: 120px; }
 .hero .btn-primary:hover { background: var(--gold-deep); color: var(--ivory); }
 .hero .btn-outline { border-color: var(--ivory-text); color: var(--ivory-text); background: transparent; }
 .hero .btn-outline:hover { background: var(--ivory-text); color: var(--green-900); }
-.hero-media { position: absolute; inset: 0; margin: 0; }
-.hero-media img { position: absolute; inset: 0; width: 100%; height: 100%; aspect-ratio: auto; object-fit: cover; border: none; }
+.hero-media { position: absolute; inset: 0; width: 100%; max-width: none; margin: 0; }
+.hero-media img { position: absolute; inset: 0; width: 100%; height: 100%; aspect-ratio: auto; object-fit: cover; object-position: center 45%; transform: scale(1.1); border: none; }
 .lede { font-size: 1.2rem; color: #3a443c; max-width: 34em; }
 .hero-actions { display: flex; flex-wrap: wrap; gap: 0.9rem; margin-top: 2.2rem; }
 
